@@ -1,0 +1,2 @@
+The script sections of a web page are handled by the browser's JavaScript interpreter, which may be an intrinsic part of the browser but usually is a distinct module, sometimes even a completely distinct project.
+Chrome uses V8; IE uses JScript; Firefox uses SpiderMonkey; 

@@ -1,0 +1,13 @@
+document.getElementById('hello').textContent = 'Hello, Console!'
+
+"Hello, Console!"
+
+function add(a, b=20) {
+  return a + b;
+}
+
+undefined
+
+add(25);
+
+45
